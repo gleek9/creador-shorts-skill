@@ -1,0 +1,12 @@
+node_modules/
+.venv/
+node/
+uv/
+salida/
+Vídeos listos/
+Audios/*.mp3
+Audios/*.wav
+Audios/*.m4a
+__pycache__/
+*.pyc
+.DS_Store

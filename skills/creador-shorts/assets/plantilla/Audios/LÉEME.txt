@@ -1,0 +1,1 @@
+Pon aquí el archivo de audio con tu voz real grabada (MP3, WAV o M4A) leyendo el guion tal cual, cuando uses el modo con voz.
